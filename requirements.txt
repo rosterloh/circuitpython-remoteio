@@ -2,5 +2,7 @@ adafruit-blinka
 adafruit-blinka-displayio
 adafruit-circuitpython-as7341
 adafruit-circuitpython-busdevice
+adafruit-circuitpython-hts221
 adafruit-circuitpython-register
+adafruit-circuitpython-sgp30
 hidapi
